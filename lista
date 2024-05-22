@@ -1,7 +1,5 @@
-# Title: Black List Pi-Hole
-#
+# Black List Pi-Hole
 # ===============================================================
-
 0.0.0.0 adservice.google.co.in
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
@@ -113388,4 +113386,3 @@
 0.0.0.0 stacks-code.financialmarketsworld.com
 0.0.0.0 start.newstartatus.co.pl
 0.0.0.0 store4343-4olx.148122222.xyz
-0.0.0.0 store-ollx
